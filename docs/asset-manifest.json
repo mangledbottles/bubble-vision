@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bubble-vision/static/css/main.6533ebff.chunk.css",
+    "main.js": "/bubble-vision/static/js/main.972111ee.chunk.js",
+    "main.js.map": "/bubble-vision/static/js/main.972111ee.chunk.js.map",
+    "runtime-main.js": "/bubble-vision/static/js/runtime-main.3f5e3da3.js",
+    "runtime-main.js.map": "/bubble-vision/static/js/runtime-main.3f5e3da3.js.map",
+    "static/css/2.b031bbee.chunk.css": "/bubble-vision/static/css/2.b031bbee.chunk.css",
+    "static/js/2.e6d5cfef.chunk.js": "/bubble-vision/static/js/2.e6d5cfef.chunk.js",
+    "static/js/2.e6d5cfef.chunk.js.map": "/bubble-vision/static/js/2.e6d5cfef.chunk.js.map",
+    "index.html": "/bubble-vision/index.html",
+    "static/css/2.b031bbee.chunk.css.map": "/bubble-vision/static/css/2.b031bbee.chunk.css.map",
+    "static/css/main.6533ebff.chunk.css.map": "/bubble-vision/static/css/main.6533ebff.chunk.css.map",
+    "static/js/2.e6d5cfef.chunk.js.LICENSE.txt": "/bubble-vision/static/js/2.e6d5cfef.chunk.js.LICENSE.txt",
+    "static/media/default-skin.css": "/bubble-vision/static/media/default-skin.f64c3af3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f5e3da3.js",
+    "static/css/2.b031bbee.chunk.css",
+    "static/js/2.e6d5cfef.chunk.js",
+    "static/css/main.6533ebff.chunk.css",
+    "static/js/main.972111ee.chunk.js"
+  ]
+}

@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.12e235b9.chunk.css",
-    "main.js": "/static/js/main.78a5f963.chunk.js",
-    "main.js.map": "/static/js/main.78a5f963.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1fe7c09d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1fe7c09d.js.map",
-    "static/css/2.96f48c4e.chunk.css": "/static/css/2.96f48c4e.chunk.css",
-    "static/js/2.a8c9cd61.chunk.js": "/static/js/2.a8c9cd61.chunk.js",
-    "static/js/2.a8c9cd61.chunk.js.map": "/static/js/2.a8c9cd61.chunk.js.map",
-    "static/js/3.2812baf2.chunk.js": "/static/js/3.2812baf2.chunk.js",
-    "static/js/3.2812baf2.chunk.js.map": "/static/js/3.2812baf2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.96f48c4e.chunk.css.map": "/static/css/2.96f48c4e.chunk.css.map",
-    "static/css/main.12e235b9.chunk.css.map": "/static/css/main.12e235b9.chunk.css.map",
-    "static/js/2.a8c9cd61.chunk.js.LICENSE.txt": "/static/js/2.a8c9cd61.chunk.js.LICENSE.txt"
+    "main.css": "/bubble-vision/static/css/main.6533ebff.chunk.css",
+    "main.js": "/bubble-vision/static/js/main.ca58e9c2.chunk.js",
+    "main.js.map": "/bubble-vision/static/js/main.ca58e9c2.chunk.js.map",
+    "runtime-main.js": "/bubble-vision/static/js/runtime-main.3f5e3da3.js",
+    "runtime-main.js.map": "/bubble-vision/static/js/runtime-main.3f5e3da3.js.map",
+    "static/css/2.a6667378.chunk.css": "/bubble-vision/static/css/2.a6667378.chunk.css",
+    "static/js/2.e0d9e7a5.chunk.js": "/bubble-vision/static/js/2.e0d9e7a5.chunk.js",
+    "static/js/2.e0d9e7a5.chunk.js.map": "/bubble-vision/static/js/2.e0d9e7a5.chunk.js.map",
+    "index.html": "/bubble-vision/index.html",
+    "static/css/2.a6667378.chunk.css.map": "/bubble-vision/static/css/2.a6667378.chunk.css.map",
+    "static/css/main.6533ebff.chunk.css.map": "/bubble-vision/static/css/main.6533ebff.chunk.css.map",
+    "static/js/2.e0d9e7a5.chunk.js.LICENSE.txt": "/bubble-vision/static/js/2.e0d9e7a5.chunk.js.LICENSE.txt",
+    "static/media/default-skin.css": "/bubble-vision/static/media/default-skin.f64c3af3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fe7c09d.js",
-    "static/css/2.96f48c4e.chunk.css",
-    "static/js/2.a8c9cd61.chunk.js",
-    "static/css/main.12e235b9.chunk.css",
-    "static/js/main.78a5f963.chunk.js"
+    "static/js/runtime-main.3f5e3da3.js",
+    "static/css/2.a6667378.chunk.css",
+    "static/js/2.e0d9e7a5.chunk.js",
+    "static/css/main.6533ebff.chunk.css",
+    "static/js/main.ca58e9c2.chunk.js"
   ]
 }
