@@ -1,0 +1,79 @@
+.Home {
+    text-align: center;
+  }
+  
+  
+  .Home-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  .Home-link {
+    color: #61dafb;
+  }
+  
+  .Home .homepageWelcome {
+    text-align: left;
+    padding: 100px 0;
+    padding-left: 75px;
+  }
+
+  .Home .homepageWelcome h1{
+    font-size: 100px;
+  }
+    
+  #background_img {
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    min-height: 600px;
+    height: calc(100vh);
+    background-position:right top;
+  }
+
+  .yellow-font {
+    /* Yellow from Wix site color: #D6CC11; */
+    color: #f4d160;
+  }
+
+  .title {
+    color: #f4d160;
+  }
+
+  .title:hover {
+    color: #f8dc80;
+    cursor: pointer;
+  }
+
+  
+  .blue-background {
+    /* Blue from Wix site background-color: #093F7C; */
+    background-color: #28527a;
+  }
+
+  .yellow-background {
+    background-color: #f4d160; 
+  }
+
+  .center-align {
+    text-align: center;
+  }
+
+  .buttons button, a.btn {
+    margin: 10px 0px;;
+    background-color: #315e92;
+    color: #c4dbf0;
+    text-decoration: none;
+  }
+
+  .buttons button:hover {
+    background-color: #28527a;
+    color: #f4d160;
+    text-decoration: none;
+  }
+
+  .buttons a:hover {
+    background-color: #28527a;
+    color: #f4d160;
+    text-decoration: none;
+  }

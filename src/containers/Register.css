@@ -1,0 +1,30 @@
+#background_img_register {
+    position: relative;
+    width: 70%;
+    padding-top: 4%;
+    margin-top: 2%;
+    min-height: 600px;
+    height: calc(100vh);
+    background-position:right top;
+}
+
+.register-btn button {
+    margin: 10px 0px;;
+    
+    background-color: #28527a;
+    color: #f4d160;
+    text-decoration: none;
+  }
+
+.register-btn button:hover {
+    background-color: #28527ab7;
+    color: #f4d160;
+    text-decoration: none;
+}
+
+.RegisterButton {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #315e92!important;
+    border-radius: 25px;
+    height: 50px;
+}
